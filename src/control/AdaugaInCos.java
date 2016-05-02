@@ -21,10 +21,7 @@ import model.service.Service;
 @WebServlet("/adaugaInCos")
 public class AdaugaInCos extends HttpServlet {
 	
-    public AdaugaInCos() {
-     
-    }
-
+    
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
